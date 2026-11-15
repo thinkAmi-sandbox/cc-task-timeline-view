@@ -1,0 +1,14 @@
+{
+  "name": "cc-task-timeline-view",
+  "owner": { "name": "thinkAmi" },
+  "metadata": {
+    "description": "A Claude Code mod that shows what Claude has been doing as a timeline in the Claude desktop app"
+  },
+  "plugins": [
+    {
+      "name": "cc-task-timeline-view",
+      "source": "./",
+      "description": "Reads the Claude desktop app's task list and turn recaps from the conversation record and shows the work, step by step, as a timeline in a side pane"
+    }
+  ]
+}

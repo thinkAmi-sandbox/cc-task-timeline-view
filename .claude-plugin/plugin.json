@@ -1,0 +1,10 @@
+{
+  "name": "cc-task-timeline-view",
+  "version": "0.1.0",
+  "description": "Reads the Claude desktop app's task list and turn recaps from the conversation record and shows the work, step by step, as a timeline in a side pane",
+  "author": { "name": "thinkAmi" },
+  "homepage": "https://github.com/thinkAmi-sandbox/cc-task-timeline-view",
+  "repository": "https://github.com/thinkAmi-sandbox/cc-task-timeline-view",
+  "license": "MIT",
+  "types": "./types/index.d.ts"
+}
